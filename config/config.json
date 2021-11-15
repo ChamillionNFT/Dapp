@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x7e6E08B9b341a871Dc66467D376b35921df861b3",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7e6E08B9b341a871Dc66467D376b35921df861b3",
+  "CONTRACT_ADDRESS": "0x91eF634Ca08e5a091DDFCdbc323fc97660f7c32e",
+  "SCAN_LINK": "https://polygonscan.com/address/0x91eF634Ca08e5a091DDFCdbc323fc97660f7c32e",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "Chamillion",
   "SYMBOL": "CHAM",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 30000000000000000,
-  "DISPLAY_COST": 0.03,
+  "WEI_COST": 75000000000000000000,
+  "DISPLAY_COST": 75,
   "GAS_LIMIT": "285000",
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/chamillion",
